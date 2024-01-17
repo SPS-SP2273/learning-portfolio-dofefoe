@@ -1,1 +1,3 @@
 print("hello again, world!")
+a == 1
+a += 1
